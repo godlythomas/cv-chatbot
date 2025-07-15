@@ -1,0 +1,35 @@
+PROFESSIONAL SUMMARY
+Worked as an Engineer in the digital domain at Tata ELXSI for 1.8 years.
+Professional with hands-on experience in Angular 6, JavaScript, React JS, HTML, CSS, and Ionic 5.
+Experience in developing web applications using frameworks like Angular 6, Magento 2, and CSS.
+Good understanding of back-end integration and web services integration (REST) and JSON.
+Good knowledge of programming languages like C, C++, and Java.
+Proactive, individual with high energy and proven ability to work on new platforms.
+Experience working in Agile scrum teams and a strong understanding of web technologies.
+CORE STRENGTHS AND CAPABILITIES
+Excellent team player with interpersonal skills.
+Proficient in MS Office, Outlook, Presentation, and Excel.
+Able to analyze complex problems and provide solutions.
+Enjoys working with large datasets and an eagerness to learn computational subjects.
+WORK EXPERIENCE
+Contributed to a team of over 4000 employees as an engineer in the Digital Team
+Analyzed data sets to develop an online code challenge platform and created test cases component with action controls and responsive web pages in 4 sprint days.
+Proactively sought resources and support from both inside and outside the team for achieving results for tasks assigned during onboarding.
+SKILL SETS
+PROJECTS
+Project Profile #1:
+Project: SYMPLR Healthcare
+Duration: 05/2020 - 02/2021
+Responsibilities:
+Collaborated alongside the team to develop a US HealthCare application for vendor credentialing using angular and Ionic 5 within an agile environment
+Gathering business and user requirements.
+Developed the front end of various modules of the Application.
+User interface development, functionality implementation, and Web services integration.
+Code review and bug fixing
+Testing (unit testing, integration testing, regression testing)
+Created pages with enhanced front-end performance through clean coding practices
+Worked under tight deadlines with weekly delivery and sprint planning
+Completed the features assigned to the project on time and met quality standards.
+Project Profile #2:
+Project: THSL POC Internal Project
+Duration: 02/2021 – 08/2021
